@@ -1,0 +1,13 @@
+Helloes!
+
+This is a maze.
+
+Before you navigate through and find the treasure that lies therein, you should know that:
+
+1. you have a cat, it should be somewhere around(cat.ps1), run it at your leasure in your favorite powershell interpreter, most things will(???) be explained there(ye right..).
+3. certain parts of the maze are generated at random, therefore you might notice slight(or not so slight) differences if you don't always work on the same computer, so it is suggested that you automate your solutions as much as possible for these parts, you might want to install another copy of the maze if you want to ensure your solution is generic.
+4. you may not view, disassemble, eat, or alter the maze-building script(build.ps1) as well as any executables you come across in any way, they might be the intellectual property of Mark Russinovich, and you sure wouldn't want to upset him.
+2. no.
+
+
+Good luck!
